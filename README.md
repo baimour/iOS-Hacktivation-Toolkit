@@ -1,16 +1,16 @@
 # iOS Hacktivation Toolkit
 
-### WORKING ON THE LATEST iOS FIRMWARE CURRENTLY AVAILABLE (iOS 13.6.1)
+### 使用当前可用的最新 iOS 固件 （iOS 13.6.1）
 
-This is an iOS Activation Lock Bypass Tool. I wrote this tool mainly because there is nothing out there for Linux (that i could find anyway). 
+这是一个iOS激活锁绕过工具。我写这个工具主要是因为Linux没有任何东西（无论如何我都能找到）
 
-Looking for developers! This is a work in progress. If you think you can add to this project please get in touch!
+正在寻找开发人员！这是一项正在进行的工作。如果您认为可以添加到此项目中，请与我们联系！
 
-### Screenshot
+### 截图
 
 ![img](https://i.imgur.com/RST0Y09.png)
 
-### Supported Devices
+### 支持的设备
 
 ```
 iPhone X
@@ -36,18 +36,18 @@ iPod Touch 2nd Generation
 iPod Touch 1st Generation
 ```
 
-### Features
+### 特点
 
 
 ```
-- Firmware Restore / Upgrade
-- Jailbreak (checkra1n)
-- Activation Lock Bypass for all checkm8 vulnerable devices
+- 固件恢复/升级
+- 越狱 (Checkra1n)
+- 所有checkm8易受攻击设备的激活锁旁路
 ```
 
-### Install
+### 安装
 
-UBUNTU LIVE USB USERS WILL NEED TO ENABLE SOFTWARE REPOS IN SOFTWARE & UPDATES
+UBUNTU LIVE USB 用户需要在软件和更新中启用软件存储库
 
 ![img](https://i.imgur.com/05scg8J.png)
 
@@ -60,7 +60,7 @@ chmod +x hacktivation.sh
 sudo ./hacktivation.sh
 ```
 
-Tested on Debian 10 and Ubuntu 20.04
+在 Debian 10 和 Ubuntu 20.04 上测试
 
-Looking for developers! This is a work in progress. If you think you can add to this project please get in touch!
+正在寻找开发人员！这是一项正在进行的工作。如果您认为可以添加到此项目中，请与我们联系！
 
