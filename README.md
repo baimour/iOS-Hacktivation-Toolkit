@@ -15,8 +15,8 @@
 ```
 iPhone 5s
 iPhone 6
-iPhone SE
 iPhone 6s
+iPhone SE
 iPhone 7
 iPhone 8
 iPhone X
